@@ -1,7 +1,7 @@
 export default {
-  author: "Sam Xie",
+  author: "Kushal Kafle",
   hero: {
-    subtitle: "Software engineer at Cash App.",
+    subtitle: "Founder at Nest Nepal",
     description: "Building reliable and scalable systems by day. Leveraging technology to launch fully featured products by night.",
     cta: "Browse Products",
   },
