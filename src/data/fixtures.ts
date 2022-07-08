@@ -1,5 +1,5 @@
 export default {
-  author: "Kushal Kafle",
+  author: "Kushal K.",
   hero: {
     subtitle: "Founder at Nest Nepal",
     description: "Building reliable and scalable systems by day. Leveraging technology to launch fully featured products by night.",
