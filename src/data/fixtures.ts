@@ -2,23 +2,23 @@ export default {
   author: "Kushal K.",
   hero: {
     subtitle: "Founder at Nest Nepal",
-    description: "Building reliable and scalable systems by day. Leveraging technology to launch fully featured products by night.",
+    description: " I work as the Chief Executive Officer at Nest Nepal & also act as Co-Founder at Nest Angola, where I lead a cross-functional team of thirteen, providing products like Web Hosting, VPS, Dedicated Servers, Domain Registration & Email Hosting along with great support that makes DevOps easily deployable!",
     cta: "Browse Products",
   },
   products: {
     featured: [
       {
-        name: "DoubleText",
-        medium: "React · GraphQL · Golang",
-        summary: "The #1 Facebook Messenger analyzer.",
+        name: "Nest Nepal",
+        medium: "Hosting · VPS · Domains",
+        summary: "#1 Best Web Hosting in Nepal | WordPress & Shared",
         copy: [
-          "See millions of messages at a glance, without data leaving your computer."
+          "Nest Nepal is #1 best web hosting in Nepal packed with Unlimited nvme-SSD Disk Space and Bandwidth with Free Domain, SSL & Email Accounts."
         ],
         links: {
           color: "#363636",
           primary: {
             name: "Discover",
-            url: "https://doubletext.me/"
+            url: "https://nestnepal.com/"
           }
         },
         images: [
