@@ -18,7 +18,7 @@ export const Linked = styled.a`
 `
 
 export const MainTitle = styled.h1`
-  font-size: 2rem;
+  font-size: 1.5rem;
   margin-top: 0px;
   letter-spacing: 1.5px;
   margin-bottom: 8px;
