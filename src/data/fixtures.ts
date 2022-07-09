@@ -22,11 +22,8 @@ export default {
           }
         },
         images: [
-          "/doubletext/0.jpg",
-          "/doubletext/1.jpg",
-          "/doubletext/2.jpg",
-          "/doubletext/3.jpg",
-          "/doubletext/4.jpg"
+          "https://nestnepal.com/storage/2022/04/Meta-Tags.png"
+    
         ]
       },
       {
