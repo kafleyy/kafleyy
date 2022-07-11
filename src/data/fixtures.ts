@@ -49,78 +49,74 @@ export default {
     // Only supports 0-3 at the moment
     minor: [
       {
-        name: "Volunteer Portal",
-        description: "Find and track volunteer opportunities.",
+        name: "Nest Angola",
+        description: "Web Hosting & Domain Registration Service in Luanda, Angola.",
         link: {
-          name: "Github",
-          url: "https://github.com/zendesk/volunteer_portal"
+          name: "Website",
+          url: "https://nestangola.com"
         }
       },
       {
-        name: "Final Slash VR",
-        description: "Short survival experience on an abandoned planet.",
+        name: "Nest WebHost",
+        description: "An International version of Web Hosting made to define the next level support of Hosting Industry.",
         link: {
-          name: "Download",
-          url: "https://samzx.itch.io/final-slash-vr"
+          name: "Under Construction",
+          url: "#"
         }
       },
       {
-        name: "MPH Watch",
-        description: "Stats for miners mining on Mining Pool Hub.",
+        name: "Nest SMS",
+        description: "Bulk SMS & Marketing System in Nepal",
         link: {
-          name: "Demo",
-          url: "https://mphwatch.samxie.net/demo"
+          name: "Under Construction",
+          url: "#"
         }
       }
     ]
   },
   logoSection: {
-    title: "As hired by",
+    title: "As trusted by",
     // Only supports 0-3 at the moment
     logos: [
       {
-        src: "/logos/unimelb.svg",
-        url: "https://unimelb.edu.au/",
-        alt: "Unimelb"
+        src: "https://askmitra.com/wp-content/uploads/2022/04/Group-30.png",
+        url: "",
+        alt: "askmitra"
       },
       {
-        src: "/logos/zendesk.svg",
-        url: "https://www.zendesk.com/",
-        alt: "Zendesk"
+        src: "https://fantech.ph/wp-content/uploads/2019/02/2.png",
+        url: "https://www.fantech.com.np",
+        alt: "Fantech"
       },
       {
-        src: "/logos/cashapp.svg",
-        url: "https://cash.app/",
-        alt: "Cash App"
+        src: "https://seeklogo.com/images/N/nepal-logo-B097A20F4C-seeklogo.com.png",
+        url: "https://nepal.gov.np",
+        alt: "Nepal Govt. Sudurpaschim"
       }
   ]
   },
   footer: {
-    tagline: "Sam Xie — Melbourne, Australia",
+    tagline: "Kushal Kafle | Personal Portfolio — Kathmandu, Nepal",
     links: [
       {
         name: "Twitter",
-        url: "https://twitter.com/samxstudio",
+        url: "https://twitter.com/_kafleyy_",
         fa: "fab fa-twitter" // Code from: https://fontawesome.com/v5/icons/twitter?s=brands
       },
-      {
-        name: "Medium",
-        url: "https://medium.com/@samxie",
-        fa: "fab fa-medium"
-      },
+ 
       {
         name: "Github",
-        url: "https://github.com/samzx",
+        url: "https://github.com/kafleyy",
         fa: "fab fa-github"
       },
       {
         name: "Linkedin",
-        url: "https://www.linkedin.com/in/xiesam/",
+        url: "https://www.linkedin.com/in/kafleyy/",
         fa: "fab fa-linkedin"
       },
       {
         name: "Email",
-        url: "mailto:contact@samxie.net",
+        url: "mailto:kushal@nestnepal.com",
         fa: "fa fa-envelope"
       },
     ]
