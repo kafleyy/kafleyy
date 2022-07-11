@@ -79,7 +79,7 @@ export default {
     // Only supports 0-3 at the moment
     logos: [
       {
-        src: "/public/logos/askmitra.png",
+        src: "/logos/askmitra.png",
         url: "https://askmitra.com",
         alt: "askmitra"
       },
