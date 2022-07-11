@@ -1,9 +1,9 @@
 export default {
-  author: "Kushal K.",
+  author: "Kushal Kafle",
   hero: {
     subtitle: "Founder at Nest Nepal",
-    description: " I work as the Chief Executive Officer at Nest Nepal & also act as Co-Founder at Nest Angola, where I lead a cross-functional team of thirteen, providing products like Web Hosting, VPS, Dedicated Servers, Domain Registration & Email Hosting along with great support that makes DevOps easily deployable!",
-    cta: "Browse Products",
+    description: " I work as the Chief Executive Officer at Nest Nepal & also act as Co-Founder at Nest Angola, where I lead a cross-functional team of thirteen!",
+    cta: "Browse my Companies",
   },
   products: {
     featured: [
@@ -22,27 +22,27 @@ export default {
           }
         },
         images: [
-          "https://nestnepal.com/storage/2022/04/Meta-Tags.png"
+          "https://nestnepal.com/storage/2022/04/Meta-Tags.png",
+          "https://nestnepal.com/site-ss.png",
     
         ]
       },
       {
-        name: "ClimbList",
-        medium: "React · Next.js",
-        summary: "Construction is now in progress.",
+        name: "Bitmoro",
+        medium: "Cloud · Bare Metals · Domains",
+        summary: "Construction & Branding is now in progress.",
         copy: [
-          "Compare and track grades and pricing between gyms around the country.",
+          "Bitmoro Web Hosting provides domain registration and fast-reliable hosting services to the users. ",
         ],
         links: {
           color: "#363636",
           primary: {
             name: "Learn more",
-            url: "https://climblist.com/"
+            url: "https://bitmoro.com/"
           }
         },
         images: [
-          "/climblist/0.jpg",
-          "/climblist/1.jpg",
+          "https://nestnepal.com/bitmoro-ss.png"
         ]
       }
     ],
