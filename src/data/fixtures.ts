@@ -79,7 +79,7 @@ export default {
     // Only supports 0-3 at the moment
     logos: [
       {
-        src: "https://askmitra.com/wp-content/uploads/2022/04/Group-30.png",
+        src: "/public/logos/askmitra.png",
         url: "https://askmitra.com",
         alt: "askmitra"
       },
