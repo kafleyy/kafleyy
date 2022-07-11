@@ -58,7 +58,7 @@ export default {
       },
       {
         name: "Nest WebHost",
-        description: "An International version of Web Hosting made to define the next level support of Hosting Industry.",
+        description: "An intl. Web Hosting platform.",
         link: {
           name: "Under Construction",
           url: "#"
