@@ -80,19 +80,9 @@ export default {
     logos: [
       {
         src: "https://askmitra.com/wp-content/uploads/2022/04/Group-30.png",
-        url: "",
+        url: "https://askmitra.com",
         alt: "askmitra"
       },
-      {
-        src: "https://fantech.ph/wp-content/uploads/2019/02/2.png",
-        url: "https://www.fantech.com.np",
-        alt: "Fantech"
-      },
-      {
-        src: "https://seeklogo.com/images/N/nepal-logo-B097A20F4C-seeklogo.com.png",
-        url: "https://nepal.gov.np",
-        alt: "Nepal Govt. Sudurpaschim"
-      }
   ]
   },
   footer: {
